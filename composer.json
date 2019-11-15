@@ -1,5 +1,5 @@
 {
-    "name": "zenith/test",
+    "name": "zzzz/test",
     "description": "just a test!!!",
     "type": "l",
     "require": {
@@ -8,7 +8,7 @@
     "license": "Apache",
     "authors": [
         {
-            "name": "zenith",
+            "name": "zzzz",
             "email": "398118321@qq.com"
         }
     ],
